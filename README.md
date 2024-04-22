@@ -6,7 +6,7 @@ I'm a IT student passionate about backend technologies. I love learning new thin
 
 ### 🌱 What I'm Learning
 
-I'm currently studing a master's degree in Software engineering.
+I'm currently pursuing a master's degree in Software engineering.
 
 ### 💼 My Skills
 
