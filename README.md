@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hello, I'm Hugo!
 
-<!--
-**RasWinIste/RasWinIste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a IT student passionate about backend technologies. I love learning new things and try new technology. My goal is to improve myself everyday.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Learning
+
+I'm currently studing a master's degree in Software engineering.
+
+### 💼 My Skills
+
+- **Programming Languages:** Java, C/C++/C#, JavaScript/Typescript
+- **Frameworks & Libraries:** Angular, React
+
+### 📫 How to Reach Me
+
+- LinkedIn: https://www.linkedin.com/in/hugo-raskin-479b89235/
+- Email: raskin.hugo@gmail.com
+
+### 🤝 Let's Connect
+
+I'm always interested in connecting with fellow developers, designers, and tech enthusiasts. Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
