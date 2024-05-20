@@ -11,7 +11,7 @@ I'm currently pursuing a master's degree in Software engineering.
 ### 💼 My Skills
 
 - **Programming Languages:** Java, C/C++/C#, JavaScript/Typescript
-- **Frameworks & Libraries:** Angular, React
+- **Frameworks & Libraries:** Angular, React, Java Spring Boot
 
 ### 📫 How to Reach Me
 
