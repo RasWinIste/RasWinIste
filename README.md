@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a IT student passionate about backend technologies. I love learning new things and try new technology. My goal is to improve myself everyday.
+I'm a CS student passionate about backend technologies. I love learning new things and try new technology. My goal is to improve myself everyday.
 
 ### 🌱 What I'm Learning
 
