@@ -10,13 +10,13 @@ I'm currently pursuing a master's degree in Software engineering.
 
 ### 💼 My Skills
 
-- **Programming Languages:** Java, C/C++/C#, JavaScript/Typescript
+- **Programming Languages:** Java, C/C++/C#, JavaScript/Typescript, Python
 - **Frameworks & Libraries:** Angular, React, Java Spring Boot, .NET
 
 ### 📫 How to Reach Me
 
-- LinkedIn: https://www.linkedin.com/in/hugo-raskin-479b89235/
-- Email: raskin.hugo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hugo-raskin-it/
+- Email: raskin.hugo@yahoo.com
 
 ### 🤝 Let's Connect
 
